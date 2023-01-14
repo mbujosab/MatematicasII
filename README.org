@@ -1,0 +1,7 @@
+#+title: Material para Matemáticas II (Álgebra Lineal)
+#+author: Marcos Bujosa
+#+LANGUAGE: es-es
+
+# +OPTIONS: toc:nil
+
+Material para el curso 22/23 de [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Matemáticas II]] (Álgebra Lineal) del [[https://www.ucm.es/estudios/grado-economia][Grado en Economía]] de la [[https://www.ucm.es/][UCM]].
