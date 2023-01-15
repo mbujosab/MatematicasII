@@ -3,7 +3,7 @@
 - El calendario indica lo que veremos cada día en clase
   
 - Las trasparencias de clase (que mostraré en la pantalla del aula)
-  están agrupadas por temas y siguen el contenido del [[https://github.com/mbujosab/CursoDeAlgebraLineal][libro]]; y están
+  están agrupadas por temas y siguen el contenido del [[https://github.com/mbujosab/CursoDeAlgebraLineal][libro]]. Aparecen
   en dos formatos: print (con algún contenido adicional) y handout
   (que muestra 4 trasparencias por página)
 
