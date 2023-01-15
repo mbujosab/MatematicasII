@@ -1,0 +1,12 @@
+#+TITLE: Material for Mathematics II classes (Linear Algebra)
+
+- The schedule: indicates what we will see each day in class
+  
+- Slides: (which I will use with the classroom screen) They are
+  grouped by topic and follow the content of the [[https://github.com/mbujosab/CursoDeAlgebraLineal][book]]. You can find
+  two formats: "print" (with some additional content) and "handout"
+  (showing 4 slides per page).
+
+  (the slides are written in english, but the book is written in
+  spanish. Fortunately you can find lots of Linear Algebra books
+  written in english and aditional online resources [[https://en.wikipedia.org/wiki/Linear_algebra#External_links][here]].)
