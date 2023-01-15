@@ -1,4 +1,4 @@
-#+TITLE: Material for Mathematics II classes (Linear Algebra)
+#+TITLE: Teaching materials for Math II (Linear Algebra) classes
 
 - The schedule: indicates what we will see each day in class
   
