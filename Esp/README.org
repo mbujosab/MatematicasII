@@ -2,9 +2,16 @@
 
 - El calendario indica lo que veremos cada día en clase
   
-- Las trasparencias de clase (que mostraré en la pantalla del aula)
-  están agrupadas por temas y siguen el contenido del [[https://github.com/mbujosab/CursoDeAlgebraLineal][libro]]. Aparecen
-  en dos formatos: print (con algún contenido adicional) y handout
-  (que muestra 4 trasparencias por página)
+- Las [[./Transparencias_y_ejercicios][trasparencias y ejercicios]] de clase (que mostraré en la pantalla del aula)
+
+  - están agrupadas por temas y siguen el contenido del
+    [[https://github.com/mbujosab/CursoDeAlgebraLineal][libro]]. Aparecen en dos formatos: print (con algún contenido
+    adicional) y handout (que muestra 4 trasparencias por página)
+
+  - Al final de cada lección puedes encontrar ejercicios para
+    practicar los conceptos vistos en la lección.
+
+  - Puede encontrar los exámenes pasados [[./ExamenesPasados][aquí]]
+
 
   
