@@ -21,7 +21,9 @@ La asignatura [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-
 *Material docente elaborado por Marcos Bujosa*
 
   1. [[file:./files/libro.pdf][libro.pdf]] (con repositorio [[https://github.com/mbujosab/CursoDeAlgebraLineal]])
-  2. [[https://github.com/mbujosab/MatematicasII][Material de clase y exámenes pasados]]
+  2. [[file:../Esp/][Material]]  (con repositorio [[https://github.com/mbujosab/MatematicasII]])
+     - [[file:../Esp/Transparencias_y_ejercicios][Transparencias y ejercicios]]
+     - [[file:../Esp/ExamenesPasados][ExamenesPasados]]
   3. Clases en vídeo
   4. Notebooks de jupyter para usar el módulo NAcAL (Notación Asociativa para un Curso de Álgebra Lineal)
   5. [[https://github.com/mbujosab/nacallib][Módulo de Python NAcAL]] (el paquete se instala desde [[https://pypi.org/project/nacal/][aquí]]
