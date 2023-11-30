@@ -18,10 +18,9 @@ https://www.ucm.es/data/cont/docs/3-2016-07-21-Marca%20UCM%20logo%20negro.png
 # https://www.ucm.es/themes/ucm16/media/img/logo.png
 
 
-* Material para Matemáticas II (Álgebra Lineal) del Grado de Economía
+* Material para Matemáticas II (Álgebra Lineal) del Grado de Economía -- /Teaching material for Mathematics II (Linear Algebra)/
     :PROPERTIES:  
     :UNNUMBERED: t
     :END:  
-# y una introducción a la Probabilidad como extensión del Álgebra Lineal
 
-#+INCLUDE: "README.org::* Material para Matemáticas II (Álgebra Lineal)" :only-contents t 
+#+INCLUDE: "README.org::* Material docente para Matemáticas II (Álgebra Lineal) -- /Teaching material for Mathematics II (Linear Algebra)/" :only-contents t 
