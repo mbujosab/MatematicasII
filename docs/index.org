@@ -17,10 +17,9 @@ https://www.ucm.es/data/cont/docs/3-2016-07-21-Marca%20UCM%20logo%20negro.png
 La asignatura [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Matemáticas II (Álgebra Lineal)]] se imparte durante el
 [[https://economicasyempresariales.ucm.es/grado-en-economia][segundo semestre]] del primer curso del [[https://www.ucm.es/estudios/grado-economia][Grado de Economía]] de la [[https://www.ucm.es/][UCM]].
 
-
 *Material docente elaborado por Marcos Bujosa*
 
-  1. [[file:./files/libro.pdf][libro.pdf]] (con repositorio [[https://github.com/mbujosab/CursoDeAlgebraLineal]])
+  1. [[https://mbujosab.github.io/MatematicasII/files/libro.pdf][libro.pdf]] (con repositorio [[https://github.com/mbujosab/CursoDeAlgebraLineal]])
   2. [[file:../Esp/][Material]]  (con repositorio [[https://github.com/mbujosab/MatematicasII]])
      - [[file:../Esp/Transparencias_y_ejercicios][Transparencias y ejercicios]]
      - [[file:../Esp/ExamenesPasados][ExamenesPasados]]

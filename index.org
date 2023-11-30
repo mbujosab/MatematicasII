@@ -1,0 +1,27 @@
+#+title:  Material para Matemáticas II del Grado de Economía (Álgebra Lineal)
+#+author: Marcos Bujosa 
+#+email:  mbujosab@ucm.es
+#+LANGUAGE: es-es
+
+# +OPTIONS: toc:nil
+#+OPTIONS: title:nil
+
+# ###########
+# ESTO DA EL FORMATO FINAL DE LA PÁGINA WEB VÉASE [[https://olmon.gitlab.io/org-themes/]]
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="worg.css" />
+# ##########
+
+#+attr_html: :width 150px
+https://www.ucm.es/data/cont/docs/3-2016-07-21-Marca%20UCM%20logo%20negro.png
+
+# +attr_html: :width 300px
+# https://www.ucm.es/themes/ucm16/media/img/logo.png
+
+
+* Material para Matemáticas II (Álgebra Lineal) del Grado de Economía
+    :PROPERTIES:  
+    :UNNUMBERED: t
+    :END:  
+# y una introducción a la Probabilidad como extensión del Álgebra Lineal
+
+#+INCLUDE: "README.org::* Material para Matemáticas II (Álgebra Lineal)" :only-contents t 

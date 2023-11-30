@@ -1,7 +1,60 @@
-#+title: Material para Matemáticas II (Álgebra Lineal)
-#+author: Marcos Bujosa
-#+LANGUAGE: es-es
+- Enlace a la [[https://mbujosab.github.io/MatematicasII/][web]] 
 
-# +OPTIONS: toc:nil
+* Material para Matemáticas II (Álgebra Lineal)
+    :PROPERTIES:  
+    :UNNUMBERED: t
+    :END:  
 
-Material para el curso 22/23 de [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Matemáticas II]] (Álgebra Lineal) del [[https://www.ucm.es/estudios/grado-economia][Grado en Economía]] de la [[https://www.ucm.es/][UCM]].
+Material para el curso 23/24 de [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Matemáticas II]] del [[https://www.ucm.es/estudios/grado-economia][Grado de Economía]]
+de la [[https://economicasyempresariales.ucm.es][Facultad de CC. Económicas]] de la [[https://www.ucm.es/][UCM]].
+
+** en Español
+
+- El calendario indica lo que veremos cada día en clase
+
+- En el siguiente [[file:./Esp/Transparencias_y_ejercicios/info-MatematicasII-handout.pdf][documento]] tiene información sobre algunas cuestiones
+  el desarrollo del curso
+  
+- Las [[file:./Esp/Transparencias_y_ejercicios][trasparencias y ejercicios]] de clase (que mostraré en la pantalla del aula)
+
+  - están agrupadas por temas y siguen el contenido del
+    [[https://mbujosab.github.io/CursoDeAlgebraLineal/libro.pdf][libro]]. Aparecen en dos formatos: *print* (con algún contenido
+    adicional) y *handout* (que muestra 4 trasparencias por página)
+    
+    - Primera parte (lecciones 1 a 3) ::
+      - [[file:./Esp/Transparencias_y_ejercicios/P01-MatematicasII-print.pdf][P01-MatematicasII-print.pdf]]
+      - [[file:./Esp/Transparencias_y_ejercicios/P01-MatematicasII-handout.pdf][P01-MatematicasII-handout.pdf]]
+	
+    - Segunda parte (lecciones 4 y 5) ::
+      - [[file:./Esp/Transparencias_y_ejercicios/P02-MatematicasII-print.pdf][P02-MatematicasII-print.pdf]]
+      - [[file:./Esp/Transparencias_y_ejercicios/P02-MatematicasII-handout.pdf][P02-MatematicasII-handout.pdf]]
+	
+    - Tercera parte (lecciones 6 y 10) :: 
+      - [[file:./Esp/Transparencias_y_ejercicios/P03-MatematicasII-print.pdf][P03-MatematicasII-print.pdf]]
+      - [[file:./Esp/Transparencias_y_ejercicios/P03-MatematicasII-handout.pdf][P03-MatematicasII-handout.pdf]]
+
+    - Cuarta parte (lecciones 11 y 12) :: 
+      - [[file:./Esp/Transparencias_y_ejercicios/P04-MatematicasII-print.pdf][P04-MatematicasII-print.pdf]]
+      - [[file:./Esp/Transparencias_y_ejercicios/P04-MatematicasII-handout.pdf][P04-MatematicasII-handout.pdf]]
+
+    - Quinta parte (lecciones 13 y 14) :: 
+      - [[file:./Esp/Transparencias_y_ejercicios/P05-MatematicasII-print.pdf][P05-MatematicasII-print.pdf]]
+      - [[file:./Esp/Transparencias_y_ejercicios/P05-MatematicasII-handout.pdf][P05-MatematicasII-handout.pdf]]
+
+    - Sexta parte (lecciones 15 a 18) :: 
+      - [[file:./Esp/Transparencias_y_ejercicios/P06-MatematicasII-print.pdf][P06-MatematicasII-print.pdf]]
+      - [[file:./Esp/Transparencias_y_ejercicios/P06-MatematicasII-handout.pdf][P06-MatematicasII-handout.pdf]]
+
+    - Séptima parte (Lección 19) :: 
+      - [[file:./Esp/Transparencias_y_ejercicios/P07-MatematicasII-print.pdf][P07-MatematicasII-print.pdf]]
+      - [[file:./Esp/Transparencias_y_ejercicios/P07-MatematicasII-handout.pdf][P07-MatematicasII-handout.pdf]]
+
+  - Al final de cada lección encontrará ejercicios para practicar los
+    conceptos vistos en la lección.
+
+- Puede encontrar los exámenes de cursos pasados [[file:./Esp/ExamenesPasados][aquí]]
+  
+  - Primeros exámenes intermedios (normalmente lecciones 1 a 10) :: [[file:./file:./Esp/ExamenesPasados/Quiz1-Review-ES.pdf]]
+  - Segundos exámenes intermedios y exámenes finales :: [[file:./file:./Esp/ExamenesPasados/Quiz2-Final-Review-ES.pdf]] 
+
+** in Español
