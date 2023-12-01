@@ -5,107 +5,108 @@
     :UNNUMBERED: t
     :END:  
 
-- Material docente para el curso 23/24 de [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Matemáticas II]] del [[https://www.ucm.es/estudios/grado-economia][Grado de
-  Economía]] de la [[https://economicasyempresariales.ucm.es][Facultad de CC. Económicas]] de la [[https://www.ucm.es/][UCM]].
 
-- /Teaching material for the 23/24 course of [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Mathematics II]] of the
-  [[https://www.ucm.es/estudios/grado-economiaeningles][Economics Degree]] at the [[https://economicasyempresariales.ucm.es][Faculty of Economics]] of the [[https://www.ucm.es/][UCM]]./
+** En Español
+Material para el curso 23/24 de [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Matemáticas II]] del [[https://www.ucm.es/estudios/grado-economia][Grado de Economía]]
+de la [[https://economicasyempresariales.ucm.es][Facultad de CC. Económicas]] de la [[https://www.ucm.es/][UCM]].
 
 
-** en Español
+*** Información general
+- El [[file:./CalendarioMatesII-C.pdf][calendario]] indica lo que veremos cada día en clase
 
-- El calendario indica lo que veremos cada día en clase
+- [[file:./Esp/Transparencias_y_ejercicios/info-MatematicasII-handout.pdf][Aquí]] tiene información sobre algunas cuestiones el desarrollo del
+  curso
 
-- En el siguiente [[file:./Esp/Transparencias_y_ejercicios/info-MatematicasII-handout.pdf][documento]] tiene información sobre algunas cuestiones
-  el desarrollo del curso
-  
-- Las /trasparencias y ejercicios/ de clase (que mostraré en la
-  pantalla del aula) están agrupadas por temas y siguen el contenido
-  del [[https://mbujosab.github.io/CursoDeAlgebraLineal/libro.pdf][libro]].
+*** Trasparencias de clase y ejercicios
+Las /trasparencias y ejercicios/ de clase (que mostraré en la pantalla
+del aula) están agrupadas por temas y siguen el contenido del [[https://mbujosab.github.io/CursoDeAlgebraLineal/libro.pdf][libro]].
 
-  Aparecen en dos formatos: *print* (con algún contenido adicional) y
-  *handout* (que muestra 4 trasparencias por página)
+Aparecen en dos formatos: *print* (con algún contenido adicional) y
+*handout* (que muestra 4 trasparencias por página)
     
-  - Primera parte (lecciones 1 a 3) ::
-    - [[file:./Esp/Transparencias_y_ejercicios/P01-MatematicasII-print.pdf][P01-MatematicasII-print.pdf]]
-    - [[file:./Esp/Transparencias_y_ejercicios/P01-MatematicasII-handout.pdf][P01-MatematicasII-handout.pdf]]
-  	
-  - Segunda parte (lecciones 4 y 5) ::
-    - [[file:./Esp/Transparencias_y_ejercicios/P02-MatematicasII-print.pdf][P02-MatematicasII-print.pdf]]
-    - [[file:./Esp/Transparencias_y_ejercicios/P02-MatematicasII-handout.pdf][P02-MatematicasII-handout.pdf]]
-  	
-  - Tercera parte (lecciones 6 y 10) :: 
-    - [[file:./Esp/Transparencias_y_ejercicios/P03-MatematicasII-print.pdf][P03-MatematicasII-print.pdf]]
-    - [[file:./Esp/Transparencias_y_ejercicios/P03-MatematicasII-handout.pdf][P03-MatematicasII-handout.pdf]]
+- Primera parte (lecciones 1 a 3) ::
+  - [[file:./Esp/Transparencias_y_ejercicios/P01-MatematicasII-print.pdf][P01-MatematicasII-print.pdf]]
+  - [[file:./Esp/Transparencias_y_ejercicios/P01-MatematicasII-handout.pdf][P01-MatematicasII-handout.pdf]]
+	
+- Segunda parte (lecciones 4 y 5) ::
+  - [[file:./Esp/Transparencias_y_ejercicios/P02-MatematicasII-print.pdf][P02-MatematicasII-print.pdf]]
+  - [[file:./Esp/Transparencias_y_ejercicios/P02-MatematicasII-handout.pdf][P02-MatematicasII-handout.pdf]]
+	
+- Tercera parte (lecciones 6 y 10) :: 
+  - [[file:./Esp/Transparencias_y_ejercicios/P03-MatematicasII-print.pdf][P03-MatematicasII-print.pdf]]
+  - [[file:./Esp/Transparencias_y_ejercicios/P03-MatematicasII-handout.pdf][P03-MatematicasII-handout.pdf]]
 
-  - Cuarta parte (lecciones 11 y 12) :: 
-    - [[file:./Esp/Transparencias_y_ejercicios/P04-MatematicasII-print.pdf][P04-MatematicasII-print.pdf]]
-    - [[file:./Esp/Transparencias_y_ejercicios/P04-MatematicasII-handout.pdf][P04-MatematicasII-handout.pdf]]
+- Cuarta parte (lecciones 11 y 12) :: 
+  - [[file:./Esp/Transparencias_y_ejercicios/P04-MatematicasII-print.pdf][P04-MatematicasII-print.pdf]]
+  - [[file:./Esp/Transparencias_y_ejercicios/P04-MatematicasII-handout.pdf][P04-MatematicasII-handout.pdf]]
 
-  - Quinta parte (lecciones 13 y 14) :: 
-    - [[file:./Esp/Transparencias_y_ejercicios/P05-MatematicasII-print.pdf][P05-MatematicasII-print.pdf]]
-    - [[file:./Esp/Transparencias_y_ejercicios/P05-MatematicasII-handout.pdf][P05-MatematicasII-handout.pdf]]
+- Quinta parte (lecciones 13 y 14) :: 
+  - [[file:./Esp/Transparencias_y_ejercicios/P05-MatematicasII-print.pdf][P05-MatematicasII-print.pdf]]
+  - [[file:./Esp/Transparencias_y_ejercicios/P05-MatematicasII-handout.pdf][P05-MatematicasII-handout.pdf]]
 
-  - Sexta parte (lecciones 15 a 18) :: 
-    - [[file:./Esp/Transparencias_y_ejercicios/P06-MatematicasII-print.pdf][P06-MatematicasII-print.pdf]]
-    - [[file:./Esp/Transparencias_y_ejercicios/P06-MatematicasII-handout.pdf][P06-MatematicasII-handout.pdf]]
+- Sexta parte (lecciones 15 a 18) :: 
+  - [[file:./Esp/Transparencias_y_ejercicios/P06-MatematicasII-print.pdf][P06-MatematicasII-print.pdf]]
+  - [[file:./Esp/Transparencias_y_ejercicios/P06-MatematicasII-handout.pdf][P06-MatematicasII-handout.pdf]]
 
-  - Séptima parte (Lección 19) :: 
-    - [[file:./Esp/Transparencias_y_ejercicios/P07-MatematicasII-print.pdf][P07-MatematicasII-print.pdf]]
-    - [[file:./Esp/Transparencias_y_ejercicios/P07-MatematicasII-handout.pdf][P07-MatematicasII-handout.pdf]] 
+- Séptima parte (Lección 19) :: 
+  - [[file:./Esp/Transparencias_y_ejercicios/P07-MatematicasII-print.pdf][P07-MatematicasII-print.pdf]]
+  - [[file:./Esp/Transparencias_y_ejercicios/P07-MatematicasII-handout.pdf][P07-MatematicasII-handout.pdf]] 
 
-  Al final de cada lección encontrará ejercicios para practicar los
-  conceptos vistos en la lección.
+Al final de cada lección encontrará ejercicios para practicar los
+conceptos vistos en la lección.
 
-- También puede consultar los exámenes de cursos pasados:
-  
-  - Primeros exámenes intermedios (normalmente de la Lección 1 a la 10) :: [[file:./Esp/ExamenesPasados/Quiz1-Review-ES.pdf][Quiz1-Review-ES.pdf]] 
-  - Segundos exámenes intermedios y exámenes finales (temario completo) :: [[file:./Esp/ExamenesPasados/Quiz2-Final-Review-ES.pdf][Quiz2-Final-Review-ES.pdf]] 
+*** Exámenes de cursos pasados
 
-** in English
+- [[file:./Esp/ExamenesPasados/Quiz1-Review-ES.pdf][Primeros exámenes intermedios]] (normalmente de la Lección 1 a la 10)
+- [[file:./Esp/ExamenesPasados/Quiz2-Final-Review-ES.pdf][Segundos exámenes intermedios y exámenes finales]] (temario completo) 
 
-- The calendar indicates what we will cover each day in class.
+** In English
+/Teaching material for the 23/24 course of [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Mathematics II]] of the
+[[https://www.ucm.es/estudios/grado-economiaeningles][Economics Degree]] at the [[https://economicasyempresariales.ucm.es][Faculty of Economics]] of the [[https://www.ucm.es/][UCM]]./
 
-- In the following [[file:./Eng/Slides_and_exercises/info-MatematicasII-handoutENG.pdf][document]], you will find information about some issues related to the course's development.
+*** General Information
+- This [[file:./CalendarioMatesII-E.pdf][calendar]] indicates what we will cover each day in class.
 
-- The /slides and exercises/ for class (which I will display on the
-  classroom screen) are grouped by topics and follow the content of the [[https://mbujosab.github.io/CursoDeAlgebraLineal/libro.pdf][book]].
+- [[file:./Eng/Slides_and_exercises/info-MatematicasII-handoutENG.pdf][Here]] you will find information about some issues related to the course's development.
 
-  They appear in two formats: *print* (with some additional content) and
-  *handout* (which shows 4 slides per page).
+*** Slides and exercises
+The /slides and exercises/ (which I will display on the classroom
+screen) are grouped by topics and follow the content of the [[https://mbujosab.github.io/CursoDeAlgebraLineal/libro.pdf][book]].
 
-  - First part (lessons 1 to 3) ::
-    - [[file:./Eng/Slides_and_exercises/P01-MatematicasII-printENG.pdf][P01-MatematicasII-printENG.pdf]]
-    - [[file:./Eng/Slides_and_exercises/P01-MatematicasII-handoutENG.pdf][P01-MatematicasII-handoutENG.pdf]]
-  	
-  - Second part (lessons 4 and 5) ::
-    - [[file:./Eng/Slides_and_exercises/P02-MatematicasII-printENG.pdf][P02-MatematicasII-printENG.pdf]]
-    - [[file:./Eng/Slides_and_exercises/P02-MatematicasII-handoutENG.pdf][P02-MatematicasII-handoutENG.pdf]]
-  	
-  - Third part (lessons 6 and 10) :: 
-    - [[file:./Eng/Slides_and_exercises/P03-MatematicasII-printENG.pdf][P03-MatematicasII-printENG.pdf]]
-    - [[file:./Eng/Slides_and_exercises/P03-MatematicasII-handoutENG.pdf][P03-MatematicasII-handoutENG.pdf]]
+You can find two formats: *print* (with some additional content) and
+*handout* (which shows 4 slides per page).
 
-  - Fourth part (lessons 11 and 12) :: 
-    - [[file:./Eng/Slides_and_exercises/P04-MatematicasII-printENG.pdf][P04-MatematicasII-printENG.pdf]]
-    - [[file:./Eng/Slides_and_exercises/P04-MatematicasII-handoutENG.pdf][P04-MatematicasII-handoutENG.pdf]]
+- First part (lessons 1 to 3) ::
+  - [[file:./Eng/Slides_and_exercises/P01-MatematicasII-printENG.pdf][P01-MatematicasII-printENG.pdf]]
+  - [[file:./Eng/Slides_and_exercises/P01-MatematicasII-handoutENG.pdf][P01-MatematicasII-handoutENG.pdf]]
+	
+- Second part (lessons 4 and 5) ::
+  - [[file:./Eng/Slides_and_exercises/P02-MatematicasII-printENG.pdf][P02-MatematicasII-printENG.pdf]]
+  - [[file:./Eng/Slides_and_exercises/P02-MatematicasII-handoutENG.pdf][P02-MatematicasII-handoutENG.pdf]]
+	
+- Third part (lessons 6 and 10) :: 
+  - [[file:./Eng/Slides_and_exercises/P03-MatematicasII-printENG.pdf][P03-MatematicasII-printENG.pdf]]
+  - [[file:./Eng/Slides_and_exercises/P03-MatematicasII-handoutENG.pdf][P03-MatematicasII-handoutENG.pdf]]
 
-  - Fifth part (lessons 13 and 14) :: 
-    - [[file:./Eng/Slides_and_exercises/P05-MatematicasII-printENG.pdf][P05-MatematicasII-printENG.pdf]]
-    - [[file:./Eng/Slides_and_exercises/P05-MatematicasII-handoutENG.pdf][P05-MatematicasII-handoutENG.pdf]]
+- Fourth part (lessons 11 and 12) :: 
+  - [[file:./Eng/Slides_and_exercises/P04-MatematicasII-printENG.pdf][P04-MatematicasII-printENG.pdf]]
+  - [[file:./Eng/Slides_and_exercises/P04-MatematicasII-handoutENG.pdf][P04-MatematicasII-handoutENG.pdf]]
 
-  - Sixth part (lessons 15 to 18) :: 
-    - [[file:./Eng/Slides_and_exercises/P06-MatematicasII-printENG.pdf][P06-MatematicasII-printENG.pdf]]
-    - [[file:./Eng/Slides_and_exercises/P06-MatematicasII-handoutENG.pdf][P06-MatematicasII-handoutENG.pdf]]
+- Fifth part (lessons 13 and 14) :: 
+  - [[file:./Eng/Slides_and_exercises/P05-MatematicasII-printENG.pdf][P05-MatematicasII-printENG.pdf]]
+  - [[file:./Eng/Slides_and_exercises/P05-MatematicasII-handoutENG.pdf][P05-MatematicasII-handoutENG.pdf]]
 
-  - Seventh part (Lesson 19) :: 
-    - [[file:./Eng/Slides_and_exercises/P07-MatematicasII-printENG.pdf][P07-MatematicasII-printENG.pdf]]
-    - [[file:./Eng/Slides_and_exercises/P07-MatematicasII-handoutENG.pdf][P07-MatematicasII-handoutENG.pdf]]
+- Sixth part (lessons 15 to 18) :: 
+  - [[file:./Eng/Slides_and_exercises/P06-MatematicasII-printENG.pdf][P06-MatematicasII-printENG.pdf]]
+  - [[file:./Eng/Slides_and_exercises/P06-MatematicasII-handoutENG.pdf][P06-MatematicasII-handoutENG.pdf]]
 
-  At the end of each lesson, you will find exercises to practice the
-  concepts covered in the lesson.
+- Seventh part (Lesson 19) :: 
+  - [[file:./Eng/Slides_and_exercises/P07-MatematicasII-printENG.pdf][P07-MatematicasII-printENG.pdf]]
+  - [[file:./Eng/Slides_and_exercises/P07-MatematicasII-handoutENG.pdf][P07-MatematicasII-handoutENG.pdf]]
 
-- You can also review past exams:
+At the end of each lesson, you will find exercises to practice the
+concepts covered in the lesson.
 
-  - First midterm exams (usually from Lesson 1 to 10) :: [[file:./Eng/PastExams/Quiz1-Review-EN.pdf][Quiz1-Review-EN.pdf]]
-  - Second midterm exams and final exams (full syllabus) :: [[file:./Eng/PastExams/Quiz2-Final-Review-EN.pdf][Quiz2-Final-Review-EN.pdf]]
+*** Past exams
+- [[file:./Eng/PastExams/Quiz1-Review-EN.pdf][Quiz 1]] (usually from Lesson 1 to 10)
+- [[file:./Eng/PastExams/Quiz2-Final-Review-EN.pdf][Quiz2 and finals]] (full syllabus) 
