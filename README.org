@@ -14,7 +14,7 @@ de la [[https://economicasyempresariales.ucm.es][Facultad de CC. Económicas]] d
 *** Información general
 - El [[file:./CalendarioMatesII-C.pdf][calendario]] indica lo que veremos cada día en clase
 
-- [[file:./Esp/Transparencias_y_ejercicios/info-MatematicasII-handout.pdf][Aquí]] tiene información sobre algunas cuestiones el desarrollo del
+- [[file:./Esp/Transparencias_y_ejercicios/info-MatematicasII-handout.pdf][Aquí]] tiene información sobre algunas cuestiones del desarrollo del
   curso
 
 *** Trasparencias de clase y ejercicios
