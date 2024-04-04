@@ -58,7 +58,9 @@ conceptos vistos en la lección.
 *** Exámenes de cursos pasados
 
 - [[file:./Esp/ExamenesPasados/Quiz1-Review-ES.pdf][Primeros exámenes intermedios]] (normalmente de la Lección 1 a la 10)
-- [[file:./Esp/ExamenesPasados/Quiz2-Final-Review-ES.pdf][Segundos exámenes intermedios y exámenes finales]] (temario completo) 
+- [[file:./Esp/ExamenesPasados/Quiz2-Review-ES.pdf][Segundos exámenes intermedios]] (todas las lecciones)
+  
+- [[file:./Esp/ExamenesPasados/Final-Review-ES.pdf][Exámenes finales]]  
 
 ** In English
 /Teaching material for the 23/24 course of [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Mathematics II]] of the
@@ -109,4 +111,6 @@ concepts covered in the lesson.
 
 *** Past exams
 - [[file:./Eng/PastExams/Quiz1-Review-EN.pdf][Quiz 1]] (usually from Lesson 1 to 10)
-- [[file:./Eng/PastExams/Quiz2-Final-Review-EN.pdf][Quiz2 and finals]] (full syllabus) 
+- [[file:./Eng/PastExams/Quiz2-Review-EN.pdf][Quiz 2]] (full syllabus) 
+ 
+- [[file:./Eng/PastExams/Final-Review-EN.pdf][Final exams]]
