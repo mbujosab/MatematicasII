@@ -32,23 +32,23 @@ Aparecen en dos formatos: *print* (con algún contenido adicional) y
   - [[file:./Esp/Transparencias_y_ejercicios/P02-MatematicasII-print.pdf][P02-MatematicasII-print.pdf]]
   - [[file:./Esp/Transparencias_y_ejercicios/P02-MatematicasII-handout.pdf][P02-MatematicasII-handout.pdf]]
 	
-- Tercera parte (lecciones 6 y 10) :: 
+- Tercera parte (lecciones 6 a 10) :: 
   - [[file:./Esp/Transparencias_y_ejercicios/P03-MatematicasII-print.pdf][P03-MatematicasII-print.pdf]]
   - [[file:./Esp/Transparencias_y_ejercicios/P03-MatematicasII-handout.pdf][P03-MatematicasII-handout.pdf]]
 
-- Cuarta parte (lecciones 11 y 12) :: 
+- Cuarta parte (lecciones 11 a 13) :: 
   - [[file:./Esp/Transparencias_y_ejercicios/P04-MatematicasII-print.pdf][P04-MatematicasII-print.pdf]]
   - [[file:./Esp/Transparencias_y_ejercicios/P04-MatematicasII-handout.pdf][P04-MatematicasII-handout.pdf]]
 
-- Quinta parte (lecciones 13 y 14) :: 
+- Quinta parte (lecciones 14 y 15) :: 
   - [[file:./Esp/Transparencias_y_ejercicios/P05-MatematicasII-print.pdf][P05-MatematicasII-print.pdf]]
   - [[file:./Esp/Transparencias_y_ejercicios/P05-MatematicasII-handout.pdf][P05-MatematicasII-handout.pdf]]
 
-- Sexta parte (lecciones 15 a 18) :: 
+- Sexta parte (lecciones 16 a 19) :: 
   - [[file:./Esp/Transparencias_y_ejercicios/P06-MatematicasII-print.pdf][P06-MatematicasII-print.pdf]]
   - [[file:./Esp/Transparencias_y_ejercicios/P06-MatematicasII-handout.pdf][P06-MatematicasII-handout.pdf]]
 
-- Séptima parte (Lección 19) :: 
+- Séptima parte (Lección 20) :: 
   - [[file:./Esp/Transparencias_y_ejercicios/P07-MatematicasII-print.pdf][P07-MatematicasII-print.pdf]]
   - [[file:./Esp/Transparencias_y_ejercicios/P07-MatematicasII-handout.pdf][P07-MatematicasII-handout.pdf]] 
 
@@ -90,19 +90,19 @@ You can find two formats: *print* (with some additional content) and
   - [[file:./Eng/Slides_and_exercises/P03-MatematicasII-printENG.pdf][P03-MatematicasII-printENG.pdf]]
   - [[file:./Eng/Slides_and_exercises/P03-MatematicasII-handoutENG.pdf][P03-MatematicasII-handoutENG.pdf]]
 
-- Fourth part (lessons 11 and 12) :: 
+- Fourth part (lessons 11 to 13) :: 
   - [[file:./Eng/Slides_and_exercises/P04-MatematicasII-printENG.pdf][P04-MatematicasII-printENG.pdf]]
   - [[file:./Eng/Slides_and_exercises/P04-MatematicasII-handoutENG.pdf][P04-MatematicasII-handoutENG.pdf]]
 
-- Fifth part (lessons 13 and 14) :: 
+- Fifth part (lessons 14 and 15) :: 
   - [[file:./Eng/Slides_and_exercises/P05-MatematicasII-printENG.pdf][P05-MatematicasII-printENG.pdf]]
   - [[file:./Eng/Slides_and_exercises/P05-MatematicasII-handoutENG.pdf][P05-MatematicasII-handoutENG.pdf]]
 
-- Sixth part (lessons 15 to 18) :: 
+- Sixth part (lessons 16 to 19) :: 
   - [[file:./Eng/Slides_and_exercises/P06-MatematicasII-printENG.pdf][P06-MatematicasII-printENG.pdf]]
   - [[file:./Eng/Slides_and_exercises/P06-MatematicasII-handoutENG.pdf][P06-MatematicasII-handoutENG.pdf]]
 
-- Seventh part (Lesson 19) :: 
+- Seventh part (Lesson 20) :: 
   - [[file:./Eng/Slides_and_exercises/P07-MatematicasII-printENG.pdf][P07-MatematicasII-printENG.pdf]]
   - [[file:./Eng/Slides_and_exercises/P07-MatematicasII-handoutENG.pdf][P07-MatematicasII-handoutENG.pdf]]
 
