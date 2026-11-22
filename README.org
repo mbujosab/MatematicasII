@@ -62,6 +62,15 @@ conceptos vistos en la lección.
   
 - [[file:./Esp/ExamenesPasados/Final-Review-ES.pdf][Exámenes finales]]  
 
+*** Licencia y procedencia
+Este material está bajo una licencia [[https://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional]]
+(CC BY-NC-SA 4.0).
+
+Las clases se inspiran en las del curso 18.06 de Gilbert Strang, publicadas en [[https://ocw.mit.edu][MIT OpenCourseWare]] con esa misma
+licencia. Muchos problemas y preguntas de examen están tomados o adaptados de ese curso y de los libros de G. Strang;
+cuando se conoce, cada uno indica su procedencia. Los enunciados tomados de otras fuentes conservan los derechos de sus
+autores.
+
 ** In English
 /Teaching material for the 23/24 course of [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Mathematics II]] of the
 [[https://www.ucm.es/estudios/grado-economiaeningles][Economics Degree]] at the [[https://economicasyempresariales.ucm.es][Faculty of Economics]] of the [[https://www.ucm.es/][UCM]]./
@@ -114,3 +123,11 @@ concepts covered in the lesson.
 - [[file:./Eng/PastExams/Quiz2-Review-EN.pdf][Quiz 2]] (full syllabus) 
  
 - [[file:./Eng/PastExams/Final-Review-EN.pdf][Final exams]]
+
+*** License and sources
+/This material is licensed under a [[https://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International]] license
+(CC BY-NC-SA 4.0)./
+
+/The lectures are inspired by Gilbert Strang's course 18.06, published on [[https://ocw.mit.edu][MIT OpenCourseWare]] under the same license.
+Many problems and exam questions are taken or adapted from that course and from G. Strang's books; where known, each one
+states its source. Problems taken from other sources remain the property of their authors./
