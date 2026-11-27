@@ -1,61 +1,64 @@
 <!DOCTYPE html>
 <html lang="es-es">
 <head>
-<!-- 2026-11-23 lun 10:35 -->
+<!-- 2026-11-27 vie 23:50 -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Material docente para Matemáticas II (Álgebra Lineal) @@html:&lt;br&gt;@@  /Teaching material for Mathematics II (Linear Algebra)/</title>
 <meta name="author" content="Marcos Bujosa" />
 <meta name="generator" content="Org Mode" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style type="text/css">
-html,button,input,select,textarea {margin: 0; background-image: url(https://www.ucm.es/data/cont/docs/3-2016-07-21-Escudo%20UCM%20grises.png); background-attachment: fixed; background-position: right bottom; background-repeat: no-repeat; background-size: 8%; color: #484C66;}html {  font-size: 90%;  line-height: 1.4;}*,*:before,*:after {  -moz-box-sizing: border-box;  -webkit-box-sizing: border-box;  box-sizing: border-box;}a {  white-space: pre;  white-space: pre-wrap;  white-space: pre-line;  white-space: -pre-wrap;  white-space: -o-pre-wrap;  white-space: -moz-pre-wrap;  white-space: -hp-pre-wrap;  word-wrap: break-word;  text-decoration: none;}a:hover {  color: #0A4C89;}/* * Remove text-shadow in selection highlight: h5bp.com/i * These selection rule sets have to be separate. * Customize the background color to match your design. */::-moz-selection {  background: #0A4C89;  color: #FFF;  text-shadow: none;}::selection {  background: #0A4C89;  color: #FFF;  text-shadow: none;}/* * A better looking default horizontal rule */hr {  display: block;  height: 1px;  border: 0;  border-top: 1px dashed #CCC;  margin: 1em 0;  padding: 0;}/* * Remove the gap between images, videos, audio and canvas and the bottom of * their containers: h5bp.com/i/440 */audio,canvas,img,video {  vertical-align: middle;}/* * Remove default fieldset styles. */fieldset {  border: 0;  margin: 0;  padding: 0;}/* * Allow only vertical resizing of textareas. */textarea {  resize: vertical;}/* ==========================================================================   Author's custom styles   ========================================================================== */.todo,.done,.tag {  font-family: "Source Pro", Monaco, "Courier New", monospace;  padding: 0 0.3em;  background-color: #EEE;  border: 1px solid #CCC;}.todo {  color: #DD4433;}.done {  color: #44934B;}.tag {  font-size: 80%;  font-weight: normal;  margin: 0 0.3em;  display: none;}.timestamp {  color: #BEBEBE;}.timestamp-kwd {  color: #5F9EA0;}.right {  margin-left: auto;  margin-right: 0px;  text-align: right;}.left {  margin-left: 0px;  margin-right: auto;  text-align: left;}.center {  margin-left: auto;  margin-right: auto;  text-align: center;}.underline {  text-decoration: underline;}#postamble p,#preamble p {  font-size: 90%;  margin: .2em;}pre,code {  font-family: "Source Pro", Monaco, "Courier New", monospace;  padding-left: 0.3em;  padding-right: 0.3em;}pre {  font-size: 90%;  padding: 8pt;  overflow: auto;  white-space: pre;  word-wrap: normal;}pre.src {  position: relative;}pre.src:before {  display: none;  position: absolute;  background-color: #FFF;  top: 0.5em;  right: 0.5em;  padding: 4px;  border: 1px solid #CCC;}pre.src-sh:before {  content: "Shell Script";}pre.src-bash:before {  content: "Bash Script";}pre.src-emacs-lisp:before {  content: "Emacs Lisp";}pre.src-R:before {  content: "R";}pre.src-perl:before {  content: "Perl";}pre.src-java:before {  content: "Java";}pre.src-sql:before {  content: "SQL";}pre.src-c:before {  content: "C";}pre.src-cpp:before {  content: "C++";}pre.src-html:before {  content: "HTML";}table {  border-collapse: collapse;  display: block;  overflow-x: auto;}caption.t-above {  caption-side: top;}caption.t-bottom {  caption-side: bottom;}td, th {  vertical-align: top;  border: 1px solid #CCC;  padding: 0.5em;}th.right {  text-align: center;}th.left {  text-align: center;}th.center {  text-align: center;}td.right {  text-align: right;}td.left {  text-align: left;}td.center {  text-align: center;}dt {  font-weight: bold;}#footnotes {  border-top: 5px solid #0A4C89;  margin-bottom: 5em;}#footnotes h2 {  display: none;}#text-footnotes {  margin-top: 1em;}.footpara:nth-child(2) {  display: inline;}.footpara {  display: block;}.footdef sup:before {  content: "[";}.footdef sup:after {  content: "]";}.footdef p {  display: inline;}figure {  margin: 0;}figure img {  max-width: 100%;}figcaption {  text-align: center;  font-size: 0.8rem;}.inlinetask {  padding: 10px;  border: 2px solid gray;  margin: 10px;  background: #ffffcc;}#org-div-home-and-up {  text-align: right;  font-size: 70%;  white-space: nowrap;}textarea {  overflow-x: auto;}.linenr {  font-size: smaller;}.code-highlighted {  background-color: #ffff00;}.org-info-js_info-navigation {  border-style: none;}#org-info-js_console-label {  font-size: 10px;  font-weight: bold;  white-space: nowrap;}.org-info-js_search-highlight {  background-color: #ffff00;  color: #000000;  font-weight: bold;}p.verse,blockquote {  margin: 0;  padding: 0;  padding-left: 3%;  border-left: 5px solid #0A4C89;}body {  font-family: Lora, Palatino, Georgia, serif;  width: 92%;  max-width: 1024px;  margin: 0 auto;  background-color: #FFF;}h2 {  line-height: 1.62em;}.title {  margin: 0 0 2em 0;  line-height: 2em;  border-bottom: 5px solid #0A4C89;  text-align: center;}#postamble {  font-size: 80%;  line-height: 1.4em;  text-align: right;}h1, h2, h3, h4, h5, h6 {  font-family: "Source Sans Pro", sans-serif;  color: #222;}.outline-2 {  margin-bottom: 4em;}.outline-2 h2 {  border-bottom: 1px solid #CCC;}.outline-text-2 code, pre {  background-color: #EEE;}#table-of-contents {  display: none;  margin-left: 0.5em;}#text-table-of-contents ul {  padding-left: 1.8em;}#text-table-of-contents li {  list-style-type: circle;  margin: 0.4em 0;}#text-table-of-contents ul ul {  margin: 0;}#text-table-of-contents li li {  font-weight: normal;  font-size: 90%;  margin: 0;}#content {  overflow: hidden;  *zoom: 1;}/* ==========================================================================   EXAMPLE Media Queries for Responsive Design.   These examples override the primary ('mobile first') styles.   Modify as content requires.   ========================================================================== */@media only screen and (min-width: 35em) {  /* Style adjustments for viewports that meet the condition */}@media print, (-o-min-device-pixel-ratio: 5 / 4), (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 120dpi) {  /* Style adjustments for high resolution devices */}/* ==========================================================================   Print styles.   Inlined to avoid required HTTP connection: h5bp.com/r   ========================================================================== */@media print {  * {    background: transparent !important;    color: #000 !important;    /* Black prints faster: h5bp.com/s */    box-shadow: none !important;    text-shadow: none !important;  }  a,  a:visited {    text-decoration: underline;  }  a[href]:after {    content: " (" attr(href) ")";  }  abbr[title]:after {    content: " (" attr(title) ")";  }  /*   * Don't show links for images, or javascript/internal links   */  .ir a:after,  a[href^="javascript:"]:after,  a[href^="#"]:after {    content: "";  }  pre,  blockquote {    /* border: 1px solid #999; */    page-break-inside: avoid;  }  thead {    display: table-header-group;    /* h5bp.com/t */  }  tr,  img {    page-break-inside: avoid;  }  img {    max-width: 100% !important;  }  @page {    margin: 0.5cm;  }  p,  h2,  h3 {    orphans: 3;    widows: 3;  }  h2,  h3 {    page-break-after: avoid;  }  #table-of-contents {    display: block;    width: initial;    border: none;  }  #table-of-contents a {    text-decoration: none;  }}/* large screen */@media screen and (min-width: 40rem) {  html {    font-size: 100%;  }  #table-of-contents {    display: block;    padding: 1em;    width: 32%;    min-width: 18em;    float: right;    background-color: #EEE;    position: relative;    /* required by z-index */    z-index: 5000;    border: 1px solid #CCC;  }  .tag {    display: initial;  }}
-</style>
+<link rel="stylesheet" href="https://mbujosab.github.io/css/algebra-lineal.css">
 </head>
 <body>
 <div id="content" class="content">
 <header>
 <h1 class="title">Material docente para Matemáticas II (Álgebra Lineal) <br>  <i>Teaching material for Mathematics II (Linear Algebra)</i></h1>
-</header><nav id="table-of-contents" role="doc-toc">
+</header><nav class="blocknav" aria-label="Webs de Álgebra Lineal">
+  <div class="container">
+    <a href="https://mbujosab.github.io/CursoDeAlgebraLineal/">Libro</a>
+    <a href="https://mbujosab.github.io/MatematicasII/" aria-current="page">Material de clase</a>
+    <a href="https://mbujosab.github.io/nacal-Jupyter-Notebooks/">Notebooks</a>
+    <a href="https://mbujosab.github.io/VideosMates2/">Vídeos</a>
+    <a href="https://mbujosab.github.io/nacallib/">NAcAL</a>
+    <a href="https://github.com/mbujosab/nacal-latex-package">Paquete de LaTeX</a>
+    <a href="https://mbujosab.github.io/">Marcos Bujosa</a>
+  </div>
+</nav>
+
+<nav id="table-of-contents" role="doc-toc">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org7049f2b">1. En Español</a>
+<li><a href="#es">1. En Español</a>
 <ul>
-<li><a href="#orgd0901ba">1.1. Información general</a></li>
-<li><a href="#org7ca8c4b">1.2. Trasparencias de clase y ejercicios</a></li>
-<li><a href="#org119239a">1.3. Exámenes de cursos pasados</a></li>
-<li><a href="#orge5bc71f">1.4. Licencia y procedencia</a></li>
+<li><a href="#es-informacion">1.1. Información general</a></li>
+<li><a href="#es-transparencias">1.2. Trasparencias de clase y ejercicios</a></li>
+<li><a href="#es-examenes">1.3. Exámenes de cursos pasados</a></li>
+<li><a href="#es-licencia">1.4. Licencia y procedencia</a></li>
 </ul>
 </li>
-<li><a href="#org6f1aaf6">2. In English</a>
+<li><a href="#en">2. In English</a>
 <ul>
-<li><a href="#org39ad2ce">2.1. General Information</a></li>
-<li><a href="#org9c9481b">2.2. Slides and exercises</a></li>
-<li><a href="#org5030f1e">2.3. Past exams</a></li>
-<li><a href="#org4fbfb03">2.4. License and sources</a></li>
+<li><a href="#en-information">2.1. General Information</a></li>
+<li><a href="#en-slides">2.2. Slides and exercises</a></li>
+<li><a href="#en-exams">2.3. Past exams</a></li>
+<li><a href="#en-license">2.4. License and sources</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </nav>
-
-<figure id="org5a60bb1">
-<img src="https://www.ucm.es/data/cont/docs/3-2016-07-21-Marca%20UCM%20logo%20negro.png" alt="3-2016-07-21-Marca%20UCM%20logo%20negro.png" width="320px">
-
-</figure>
-<div id="outline-container-org7049f2b" class="outline-2">
-<h2 id="org7049f2b"><span class="section-number-2">1.</span> En Español</h2>
-<div class="outline-text-2" id="text-1">
+<div id="outline-container-es" class="outline-2">
+<h2 id="es"><span class="section-number-2">1.</span> En Español</h2>
+<div class="outline-text-2" id="text-es">
 <p>
 Material para el curso 23/24 de <a href="https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii">Matemáticas II</a> del <a href="https://www.ucm.es/estudios/grado-economia">Grado de Economía</a>
 de la <a href="https://economicasyempresariales.ucm.es">Facultad de CC. Económicas</a> de la <a href="https://www.ucm.es/">UCM</a>.
 </p>
 </div>
-<div id="outline-container-orgd0901ba" class="outline-3">
-<h3 id="orgd0901ba"><span class="section-number-3">1.1.</span> Información general</h3>
-<div class="outline-text-3" id="text-1-1">
+<div id="outline-container-es-informacion" class="outline-3">
+<h3 id="es-informacion"><span class="section-number-3">1.1.</span> Información general</h3>
+<div class="outline-text-3" id="text-es-informacion">
 <ul class="org-ul">
 <li>El <a href="./CalendarioMatesII-C.pdf">calendario</a> indica lo que veremos cada día en clase</li>
 
@@ -64,9 +67,9 @@ curso</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org7ca8c4b" class="outline-3">
-<h3 id="org7ca8c4b"><span class="section-number-3">1.2.</span> Trasparencias de clase y ejercicios</h3>
-<div class="outline-text-3" id="text-1-2">
+<div id="outline-container-es-transparencias" class="outline-3">
+<h3 id="es-transparencias"><span class="section-number-3">1.2.</span> Trasparencias de clase y ejercicios</h3>
+<div class="outline-text-3" id="text-es-transparencias">
 <p>
 Las <i>trasparencias y ejercicios</i> de clase (que mostraré en la pantalla
 del aula) están agrupadas por temas y siguen el contenido del <a href="https://mbujosab.github.io/CursoDeAlgebraLineal/libro.pdf">libro</a>.
@@ -120,9 +123,9 @@ conceptos vistos en la lección.
 </p>
 </div>
 </div>
-<div id="outline-container-org119239a" class="outline-3">
-<h3 id="org119239a"><span class="section-number-3">1.3.</span> Exámenes de cursos pasados</h3>
-<div class="outline-text-3" id="text-1-3">
+<div id="outline-container-es-examenes" class="outline-3">
+<h3 id="es-examenes"><span class="section-number-3">1.3.</span> Exámenes de cursos pasados</h3>
+<div class="outline-text-3" id="text-es-examenes">
 <ul class="org-ul">
 <li><a href="./Esp/ExamenesPasados/Quiz1-Review-ES.pdf">Primeros exámenes intermedios</a> (normalmente de la Lección 1 a la 10)</li>
 <li><a href="./Esp/ExamenesPasados/Quiz2-Review-ES.pdf">Segundos exámenes intermedios</a> (todas las lecciones)</li>
@@ -131,9 +134,9 @@ conceptos vistos en la lección.
 </ul>
 </div>
 </div>
-<div id="outline-container-orge5bc71f" class="outline-3">
-<h3 id="orge5bc71f"><span class="section-number-3">1.4.</span> Licencia y procedencia</h3>
-<div class="outline-text-3" id="text-1-4">
+<div id="outline-container-es-licencia" class="outline-3">
+<h3 id="es-licencia"><span class="section-number-3">1.4.</span> Licencia y procedencia</h3>
+<div class="outline-text-3" id="text-es-licencia">
 <p>
 Este material está bajo una licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>
 (CC BY-NC-SA 4.0).
@@ -148,17 +151,17 @@ autores.
 </div>
 </div>
 </div>
-<div id="outline-container-org6f1aaf6" class="outline-2">
-<h2 id="org6f1aaf6"><span class="section-number-2">2.</span> In English</h2>
-<div class="outline-text-2" id="text-2">
+<div id="outline-container-en" class="outline-2">
+<h2 id="en"><span class="section-number-2">2.</span> In English</h2>
+<div class="outline-text-2" id="text-en">
 <p>
 <i>Teaching material for the 23/24 course of <a href="https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii">Mathematics II</a> of the
 <a href="https://www.ucm.es/estudios/grado-economiaeningles">Economics Degree</a> at the <a href="https://economicasyempresariales.ucm.es">Faculty of Economics</a> of the <a href="https://www.ucm.es/">UCM</a>.</i>
 </p>
 </div>
-<div id="outline-container-org39ad2ce" class="outline-3">
-<h3 id="org39ad2ce"><span class="section-number-3">2.1.</span> General Information</h3>
-<div class="outline-text-3" id="text-2-1">
+<div id="outline-container-en-information" class="outline-3">
+<h3 id="en-information"><span class="section-number-3">2.1.</span> General Information</h3>
+<div class="outline-text-3" id="text-en-information">
 <ul class="org-ul">
 <li>This <a href="./CalendarioMatesII-E.pdf">calendar</a> indicates what we will cover each day in class.</li>
 
@@ -166,9 +169,9 @@ autores.
 </ul>
 </div>
 </div>
-<div id="outline-container-org9c9481b" class="outline-3">
-<h3 id="org9c9481b"><span class="section-number-3">2.2.</span> Slides and exercises</h3>
-<div class="outline-text-3" id="text-2-2">
+<div id="outline-container-en-slides" class="outline-3">
+<h3 id="en-slides"><span class="section-number-3">2.2.</span> Slides and exercises</h3>
+<div class="outline-text-3" id="text-en-slides">
 <p>
 The <i>slides and exercises</i> (which I will display on the classroom
 screen) are grouped by topics and follow the content of the <a href="https://mbujosab.github.io/CursoDeAlgebraLineal/libro.pdf">book</a>.
@@ -222,9 +225,9 @@ concepts covered in the lesson.
 </p>
 </div>
 </div>
-<div id="outline-container-org5030f1e" class="outline-3">
-<h3 id="org5030f1e"><span class="section-number-3">2.3.</span> Past exams</h3>
-<div class="outline-text-3" id="text-2-3">
+<div id="outline-container-en-exams" class="outline-3">
+<h3 id="en-exams"><span class="section-number-3">2.3.</span> Past exams</h3>
+<div class="outline-text-3" id="text-en-exams">
 <ul class="org-ul">
 <li><a href="./Eng/PastExams/Quiz1-Review-EN.pdf">Quiz 1</a> (usually from Lesson 1 to 10)</li>
 <li><a href="./Eng/PastExams/Quiz2-Review-EN.pdf">Quiz 2</a> (full syllabus)</li>
@@ -233,9 +236,9 @@ concepts covered in the lesson.
 </ul>
 </div>
 </div>
-<div id="outline-container-org4fbfb03" class="outline-3">
-<h3 id="org4fbfb03"><span class="section-number-3">2.4.</span> License and sources</h3>
-<div class="outline-text-3" id="text-2-4">
+<div id="outline-container-en-license" class="outline-3">
+<h3 id="en-license"><span class="section-number-3">2.4.</span> License and sources</h3>
+<div class="outline-text-3" id="text-en-license">
 <p>
 <i>This material is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a> license
 (CC BY-NC-SA 4.0).</i>
@@ -252,7 +255,7 @@ states its source. Problems taken from other sources remain the property of thei
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Marcos Bujosa</p>
-<p class="date">Created: 2026-11-23 lun 10:35</p>
+<p class="date">Created: 2026-11-27 vie 23:50</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

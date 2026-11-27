@@ -3,13 +3,26 @@
 #+email:  mbujosab@ucm.es
 #+LANGUAGE: es-es
 
-# ###########
-# ESTO DA EL FORMATO FINAL DE LA PÁGINA WEB VÉASE [[https://olmon.gitlab.io/org-themes/]]
-#+SETUPFILE: simple_inlineUCM.theme  
-# +SETUPFILE: simple_inline.theme  
-# ###########
+# Aspecto común de las webs de Álgebra Lineal: una sola hoja de estilo,
+# la de la página personal (ver ../coordinacion/coordinacion-entre-repositorios.md).
+#+OPTIONS: html-style:nil html5-fancy:t toc:nil
+#+HTML_DOCTYPE: html5
+#+HTML_HEAD: <link rel="stylesheet" href="https://mbujosab.github.io/css/algebra-lineal.css">
 
-#+attr_html: :width 320px
-https://www.ucm.es/data/cont/docs/3-2016-07-21-Marca%20UCM%20logo%20negro.png
+#+BEGIN_EXPORT html
+<nav class="blocknav" aria-label="Webs de Álgebra Lineal">
+  <div class="container">
+    <a href="https://mbujosab.github.io/CursoDeAlgebraLineal/">Libro</a>
+    <a href="https://mbujosab.github.io/MatematicasII/" aria-current="page">Material de clase</a>
+    <a href="https://mbujosab.github.io/nacal-Jupyter-Notebooks/">Notebooks</a>
+    <a href="https://mbujosab.github.io/VideosMates2/">Vídeos</a>
+    <a href="https://mbujosab.github.io/nacallib/">NAcAL</a>
+    <a href="https://github.com/mbujosab/nacal-latex-package">Paquete de LaTeX</a>
+    <a href="https://mbujosab.github.io/">Marcos Bujosa</a>
+  </div>
+</nav>
+#+END_EXPORT
+
+#+TOC: headlines 2
 
 #+INCLUDE: "README.org::* Material docente para Matemáticas II (Álgebra Lineal) -- /Teaching material for Mathematics II (Linear Algebra)/" :only-contents t 
