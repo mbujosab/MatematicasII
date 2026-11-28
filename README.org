@@ -6,63 +6,82 @@
     :END:  
 
 
-** En Español
+** En español
 :PROPERTIES:
 :CUSTOM_ID: es
 :END:
-Material para el curso 23/24 de [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Matemáticas II]] del [[https://www.ucm.es/estudios/grado-economia][Grado de Economía]]
-de la [[https://economicasyempresariales.ucm.es][Facultad de CC. Económicas]] de la [[https://www.ucm.es/][UCM]].
+Aquí está todo el material de clase de [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Matemáticas II]] (Álgebra Lineal) del [[https://www.ucm.es/estudios/grado-economia][Grado de Economía]]
+de la [[https://economicasyempresariales.ucm.es][Facultad de CC. Económicas]] de la [[https://www.ucm.es/][UCM]]: las transparencias que se
+proyectan en el aula, los apuntes con ejercicios resueltos y los
+exámenes de cursos pasados. Es de acceso libre y sirve también para
+estudiar por cuenta propia.
 
-
-*** Información general
+*** Cómo usar este material
 :PROPERTIES:
 :CUSTOM_ID: es-informacion
 :END:
-- El [[file:./CalendarioMatesII-C.pdf][calendario]] indica lo que veremos cada día en clase
+- Al empezar el curso :: lea la [[file:./Esp/Transparencias_y_ejercicios/info-MatematicasII-handout.pdf][presentación de la asignatura]], que
+  explica cómo se desarrolla el curso.
+- Antes de cada clase :: mire en el [[file:./CalendarioMatesII-C.pdf][calendario]] qué lección toca y
+  lleve sus /transparencias/ (cuatro por página) para tomar notas.
+- Después de clase :: estudie la lección en los /apuntes/, que traen
+  las explicaciones que en clase se dan de palabra, y haga los
+  ejercicios del final de la lección. Las soluciones están al final
+  del documento.
+- Para comprobar las cuentas :: los [[https://mbujosab.github.io/nacal-Jupyter-Notebooks/][Notebooks]] permiten repetir los
+  ejercicios con el ordenador, sin instalar nada.
+- Si algo no ha quedado claro :: el [[https://mbujosab.github.io/CursoDeAlgebraLineal/][libro]] desarrolla cada tema con
+  sus demostraciones, y hay [[https://mbujosab.github.io/VideosMates2/][vídeos]] cortos de las primeras lecciones.
+- Antes de un examen :: practique con los [[#es-examenes][exámenes de cursos pasados]].
 
-- [[file:./Esp/Transparencias_y_ejercicios/info-MatematicasII-handout.pdf][Aquí]] tiene información sobre algunas cuestiones del desarrollo del
-  curso
-
-*** Trasparencias de clase y ejercicios
+*** Transparencias de clase y ejercicios
 :PROPERTIES:
 :CUSTOM_ID: es-transparencias
 :END:
-Las /trasparencias y ejercicios/ de clase (que mostraré en la pantalla
-del aula) están agrupadas por temas y siguen el contenido del [[https://mbujosab.github.io/CursoDeAlgebraLineal/libro.pdf][libro]].
+El material está agrupado en siete partes y sigue el contenido del
+[[https://mbujosab.github.io/CursoDeAlgebraLineal/][libro]]. Cada parte se ofrece como /apuntes/ (para estudiar) y como
+/transparencias/ (para tomar notas en clase).
 
-Aparecen en dos formatos: *print* (con algún contenido adicional) y
-*handout* (que muestra 4 trasparencias por página)
-    
-- Primera parte (lecciones 1 a 3) ::
-  - [[file:./Esp/Transparencias_y_ejercicios/P01-MatematicasII-print.pdf][P01-MatematicasII-print.pdf]]
-  - [[file:./Esp/Transparencias_y_ejercicios/P01-MatematicasII-handout.pdf][P01-MatematicasII-handout.pdf]]
-	
-- Segunda parte (lecciones 4 y 5) ::
-  - [[file:./Esp/Transparencias_y_ejercicios/P02-MatematicasII-print.pdf][P02-MatematicasII-print.pdf]]
-  - [[file:./Esp/Transparencias_y_ejercicios/P02-MatematicasII-handout.pdf][P02-MatematicasII-handout.pdf]]
-	
-- Tercera parte (lecciones 6 a 10) :: 
-  - [[file:./Esp/Transparencias_y_ejercicios/P03-MatematicasII-print.pdf][P03-MatematicasII-print.pdf]]
-  - [[file:./Esp/Transparencias_y_ejercicios/P03-MatematicasII-handout.pdf][P03-MatematicasII-handout.pdf]]
+- Parte 1. Álgebra matricial (lecciones 1 a 3) ::
+  [[file:./Esp/Transparencias_y_ejercicios/P01-MatematicasII-print.pdf][Apuntes]] · [[file:./Esp/Transparencias_y_ejercicios/P01-MatematicasII-handout.pdf][Transparencias]]
+  - 1. Vectores y matrices (notación y operaciones)
+  - 2. Combinaciones lineales
+  - 3. Multiplicación matricial
 
-- Cuarta parte (lecciones 11 a 13) :: 
-  - [[file:./Esp/Transparencias_y_ejercicios/P04-MatematicasII-print.pdf][P04-MatematicasII-print.pdf]]
-  - [[file:./Esp/Transparencias_y_ejercicios/P04-MatematicasII-handout.pdf][P04-MatematicasII-handout.pdf]]
+- Parte 2. Transformaciones elementales, eliminación y matriz inversa (lecciones 4 y 5) ::
+  [[file:./Esp/Transparencias_y_ejercicios/P02-MatematicasII-print.pdf][Apuntes]] · [[file:./Esp/Transparencias_y_ejercicios/P02-MatematicasII-handout.pdf][Transparencias]]
+  - 4. Eliminación
+  - 5. Matrices inversas
 
-- Quinta parte (lecciones 14 y 15) :: 
-  - [[file:./Esp/Transparencias_y_ejercicios/P05-MatematicasII-print.pdf][P05-MatematicasII-print.pdf]]
-  - [[file:./Esp/Transparencias_y_ejercicios/P05-MatematicasII-handout.pdf][P05-MatematicasII-handout.pdf]]
+- Parte 3. Subespacios y resolución de sistemas de ecuaciones lineales (lecciones 6 a 10) ::
+  [[file:./Esp/Transparencias_y_ejercicios/P03-MatematicasII-print.pdf][Apuntes]] · [[file:./Esp/Transparencias_y_ejercicios/P03-MatematicasII-handout.pdf][Transparencias]]
+  - 6. Introducción a los espacios y subespacios vectoriales
+  - 7. Resolviendo *Ax* = *0*
+  - 8. Resolviendo *Ax* = *b*
+  - 9. Independencia, base y dimensión
+  - 10. Los cuatro subespacios fundamentales de una matriz
 
-- Sexta parte (lecciones 16 a 19) :: 
-  - [[file:./Esp/Transparencias_y_ejercicios/P06-MatematicasII-print.pdf][P06-MatematicasII-print.pdf]]
-  - [[file:./Esp/Transparencias_y_ejercicios/P06-MatematicasII-handout.pdf][P06-MatematicasII-handout.pdf]]
+- Parte 4. Ortogonalidad (lecciones 11 a 13) ::
+  [[file:./Esp/Transparencias_y_ejercicios/P04-MatematicasII-print.pdf][Apuntes]] · [[file:./Esp/Transparencias_y_ejercicios/P04-MatematicasII-handout.pdf][Transparencias]]
+  - 11. Vectores y subespacios ortogonales
+  - 12. Ecuaciones paramétricas y cartesianas
+  - 13. Proyecciones sobre subespacios
 
-- Séptima parte (Lección 20) :: 
-  - [[file:./Esp/Transparencias_y_ejercicios/P07-MatematicasII-print.pdf][P07-MatematicasII-print.pdf]]
-  - [[file:./Esp/Transparencias_y_ejercicios/P07-MatematicasII-handout.pdf][P07-MatematicasII-handout.pdf]] 
+- Parte 5. Determinantes (lecciones 14 y 15) ::
+  [[file:./Esp/Transparencias_y_ejercicios/P05-MatematicasII-print.pdf][Apuntes]] · [[file:./Esp/Transparencias_y_ejercicios/P05-MatematicasII-handout.pdf][Transparencias]]
+  - 14. Propiedades de los determinantes
+  - 15. Cofactores y fórmulas para el cálculo del determinante
 
-Al final de cada lección encontrará ejercicios para practicar los
-conceptos vistos en la lección.
+- Parte 6. Autovalores y autovectores. Diagonalización y formas cuadráticas (lecciones 16 a 19) ::
+  [[file:./Esp/Transparencias_y_ejercicios/P06-MatematicasII-print.pdf][Apuntes]] · [[file:./Esp/Transparencias_y_ejercicios/P06-MatematicasII-handout.pdf][Transparencias]]
+  - 16. Autovalores y autovectores
+  - 17. Diagonalización en bloques triangulares por semejanza
+  - 18. Matrices simétricas y diagonalización ortogonal
+  - 19. Diagonalización por congruencia. Matrices definidas
+
+- Parte 7. Visión geométrica de la estadística (lección 20) ::
+  [[file:./Esp/Transparencias_y_ejercicios/P07-MatematicasII-print.pdf][Apuntes]] · [[file:./Esp/Transparencias_y_ejercicios/P07-MatematicasII-handout.pdf][Transparencias]]
+  - 20. Estadística
 
 *** Exámenes de cursos pasados
 :PROPERTIES:
@@ -71,8 +90,21 @@ conceptos vistos en la lección.
 
 - [[file:./Esp/ExamenesPasados/Quiz1-Review-ES.pdf][Primeros exámenes intermedios]] (normalmente de la Lección 1 a la 10)
 - [[file:./Esp/ExamenesPasados/Quiz2-Review-ES.pdf][Segundos exámenes intermedios]] (todas las lecciones)
-  
-- [[file:./Esp/ExamenesPasados/Final-Review-ES.pdf][Exámenes finales]]  
+- [[file:./Esp/ExamenesPasados/Final-Review-ES.pdf][Exámenes finales]]
+
+*** El resto del curso
+:PROPERTIES:
+:CUSTOM_ID: es-recursos
+:END:
+- [[https://mbujosab.github.io/CursoDeAlgebraLineal/][Libro]] :: el texto completo del curso, con las demostraciones.
+- [[https://mbujosab.github.io/nacal-Jupyter-Notebooks/][Notebooks]] :: las lecciones y los ejercicios, para hacerlos con el
+  ordenador.
+- [[https://mbujosab.github.io/VideosMates2/][Vídeos]] :: explicaciones cortas, paso a paso; por ahora, de las
+  primeras lecciones.
+- [[https://mbujosab.github.io/nacallib/][NAcAL]] :: la librería de Python que usan los Notebooks y los apuntes.
+
+Si es docente y quiere las versiones para el profesor (con las
+soluciones junto a cada ejercicio), [[https://mbujosab.github.io/][escríbame]].
 
 *** Licencia y procedencia
 :PROPERTIES:
@@ -90,74 +122,108 @@ autores.
 :PROPERTIES:
 :CUSTOM_ID: en
 :END:
-/Teaching material for the 23/24 course of [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Mathematics II]] of the
-[[https://www.ucm.es/estudios/grado-economiaeningles][Economics Degree]] at the [[https://economicasyempresariales.ucm.es][Faculty of Economics]] of the [[https://www.ucm.es/][UCM]]./
+Here is all the class material for [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Mathematics II]] (Linear Algebra) of the
+[[https://www.ucm.es/estudios/grado-economiaeningles][Economics Degree]] at the [[https://economicasyempresariales.ucm.es][Faculty of Economics]] of the [[https://www.ucm.es/][UCM]]: the slides
+shown in the classroom, the notes with solved exercises and the exams
+of past years. It is freely available and can also be used for
+self-study.
 
-*** General Information
+*** How to use this material
 :PROPERTIES:
 :CUSTOM_ID: en-information
 :END:
-- This [[file:./CalendarioMatesII-E.pdf][calendar]] indicates what we will cover each day in class.
-
-- [[file:./Eng/Slides_and_exercises/info-MatematicasII-handoutENG.pdf][Here]] you will find information about some issues related to the course's development.
+- At the start of the course :: read the [[file:./Eng/Slides_and_exercises/info-MatematicasII-handoutENG.pdf][course presentation]], which
+  explains how the course is organised.
+- Before each class :: check in the [[file:./CalendarioMatesII-E.pdf][calendar]] which lecture comes next
+  and bring its /slides/ (four per page) to take notes.
+- After class :: study the lecture in the /notes/, which include the
+  explanations given orally in class, and do the exercises at the end
+  of the lecture. The solutions are at the end of the document.
+- To check your computations :: the [[https://mbujosab.github.io/nacal-Jupyter-Notebooks/index-en.html][Notebooks]] let you redo the
+  exercises on the computer, with nothing to install.
+- If something is not clear :: the [[https://mbujosab.github.io/CursoDeAlgebraLineal/][book]] (written in Spanish) develops
+  each topic with its proofs, and there are short videos for the first
+  lectures, linked from the Notebooks page.
+- Before an exam :: practice with the [[#en-exams][past exams]].
 
 *** Slides and exercises
 :PROPERTIES:
 :CUSTOM_ID: en-slides
 :END:
-The /slides and exercises/ (which I will display on the classroom
-screen) are grouped by topics and follow the content of the [[https://mbujosab.github.io/CursoDeAlgebraLineal/libro.pdf][book]].
+The material is grouped in seven parts and follows the content of the
+[[https://mbujosab.github.io/CursoDeAlgebraLineal/][book]]. Each part comes as /notes/ (to study from) and as /slides/ (to
+take notes in class).
 
-You can find two formats: *print* (with some additional content) and
-*handout* (which shows 4 slides per page).
+- Part 1. Matrix algebra (lectures 1 to 3) ::
+  [[file:./Eng/Slides_and_exercises/P01-MatematicasII-printENG.pdf][Notes]] · [[file:./Eng/Slides_and_exercises/P01-MatematicasII-handoutENG.pdf][Slides]]
+  - 1. Vectors and matrices (notation and operations)
+  - 2. Linear combinations
+  - 3. Matrix multiplication
 
-- First part (lessons 1 to 3) ::
-  - [[file:./Eng/Slides_and_exercises/P01-MatematicasII-printENG.pdf][P01-MatematicasII-printENG.pdf]]
-  - [[file:./Eng/Slides_and_exercises/P01-MatematicasII-handoutENG.pdf][P01-MatematicasII-handoutENG.pdf]]
-	
-- Second part (lessons 4 and 5) ::
-  - [[file:./Eng/Slides_and_exercises/P02-MatematicasII-printENG.pdf][P02-MatematicasII-printENG.pdf]]
-  - [[file:./Eng/Slides_and_exercises/P02-MatematicasII-handoutENG.pdf][P02-MatematicasII-handoutENG.pdf]]
-	
-- Third part (lessons 6 and 10) :: 
-  - [[file:./Eng/Slides_and_exercises/P03-MatematicasII-printENG.pdf][P03-MatematicasII-printENG.pdf]]
-  - [[file:./Eng/Slides_and_exercises/P03-MatematicasII-handoutENG.pdf][P03-MatematicasII-handoutENG.pdf]]
+- Part 2. Elementary operations, elimination and inverse matrices (lectures 4 and 5) ::
+  [[file:./Eng/Slides_and_exercises/P02-MatematicasII-printENG.pdf][Notes]] · [[file:./Eng/Slides_and_exercises/P02-MatematicasII-handoutENG.pdf][Slides]]
+  - 4. Elimination
+  - 5. Inverse matrices
 
-- Fourth part (lessons 11 to 13) :: 
-  - [[file:./Eng/Slides_and_exercises/P04-MatematicasII-printENG.pdf][P04-MatematicasII-printENG.pdf]]
-  - [[file:./Eng/Slides_and_exercises/P04-MatematicasII-handoutENG.pdf][P04-MatematicasII-handoutENG.pdf]]
+- Part 3. Subspaces and systems of linear equations (lectures 6 to 10) ::
+  [[file:./Eng/Slides_and_exercises/P03-MatematicasII-printENG.pdf][Notes]] · [[file:./Eng/Slides_and_exercises/P03-MatematicasII-handoutENG.pdf][Slides]]
+  - 6. Introduction to vector spaces and subspaces
+  - 7. Solving *Ax* = *0*
+  - 8. Solving *Ax* = *b*
+  - 9. Independence, basis and dimension
+  - 10. The four fundamental subspaces of a matrix
 
-- Fifth part (lessons 14 and 15) :: 
-  - [[file:./Eng/Slides_and_exercises/P05-MatematicasII-printENG.pdf][P05-MatematicasII-printENG.pdf]]
-  - [[file:./Eng/Slides_and_exercises/P05-MatematicasII-handoutENG.pdf][P05-MatematicasII-handoutENG.pdf]]
+- Part 4. Orthogonality (lectures 11 to 13) ::
+  [[file:./Eng/Slides_and_exercises/P04-MatematicasII-printENG.pdf][Notes]] · [[file:./Eng/Slides_and_exercises/P04-MatematicasII-handoutENG.pdf][Slides]]
+  - 11. Orthogonal vectors and subspaces
+  - 12. Parametric and Cartesian equations
+  - 13. Projections onto subspaces
 
-- Sixth part (lessons 16 to 19) :: 
-  - [[file:./Eng/Slides_and_exercises/P06-MatematicasII-printENG.pdf][P06-MatematicasII-printENG.pdf]]
-  - [[file:./Eng/Slides_and_exercises/P06-MatematicasII-handoutENG.pdf][P06-MatematicasII-handoutENG.pdf]]
+- Part 5. Determinants (lectures 14 and 15) ::
+  [[file:./Eng/Slides_and_exercises/P05-MatematicasII-printENG.pdf][Notes]] · [[file:./Eng/Slides_and_exercises/P05-MatematicasII-handoutENG.pdf][Slides]]
+  - 14. Properties of determinants
+  - 15. Cofactors and determinant formulas
 
-- Seventh part (Lesson 20) :: 
-  - [[file:./Eng/Slides_and_exercises/P07-MatematicasII-printENG.pdf][P07-MatematicasII-printENG.pdf]]
-  - [[file:./Eng/Slides_and_exercises/P07-MatematicasII-handoutENG.pdf][P07-MatematicasII-handoutENG.pdf]]
+- Part 6. Eigenvalues and eigenvectors. Diagonalization and quadratic forms (lectures 16 to 19) ::
+  [[file:./Eng/Slides_and_exercises/P06-MatematicasII-printENG.pdf][Notes]] · [[file:./Eng/Slides_and_exercises/P06-MatematicasII-handoutENG.pdf][Slides]]
+  - 16. Eigenvalues and eigenvectors
+  - 17. Diagonalization in triangular blocks by similarity
+  - 18. Symmetric matrices and orthogonal diagonalization
+  - 19. Diagonalization by congruence. Definite matrices
 
-At the end of each lesson, you will find exercises to practice the
-concepts covered in the lesson.
+- Part 7. Geometrical view of statistics (lecture 20) ::
+  [[file:./Eng/Slides_and_exercises/P07-MatematicasII-printENG.pdf][Notes]] · [[file:./Eng/Slides_and_exercises/P07-MatematicasII-handoutENG.pdf][Slides]]
+  - 20. Statistics
 
 *** Past exams
 :PROPERTIES:
 :CUSTOM_ID: en-exams
 :END:
-- [[file:./Eng/PastExams/Quiz1-Review-EN.pdf][Quiz 1]] (usually from Lesson 1 to 10)
-- [[file:./Eng/PastExams/Quiz2-Review-EN.pdf][Quiz 2]] (full syllabus) 
- 
+- [[file:./Eng/PastExams/Quiz1-Review-EN.pdf][First midterm exams]] (usually from Lecture 1 to 10)
+- [[file:./Eng/PastExams/Quiz2-Review-EN.pdf][Second midterm exams]] (all lectures)
 - [[file:./Eng/PastExams/Final-Review-EN.pdf][Final exams]]
+
+*** The rest of the course
+:PROPERTIES:
+:CUSTOM_ID: en-resources
+:END:
+- [[https://mbujosab.github.io/CursoDeAlgebraLineal/][Book]] :: the full text of the course, with proofs (in Spanish).
+- [[https://mbujosab.github.io/nacal-Jupyter-Notebooks/index-en.html][Notebooks]] :: the lectures and the exercises, to work through on the
+  computer.
+- [[https://mbujosab.github.io/VideosMates2/][Videos]] :: short, step-by-step explanations; for now, of the first
+  lectures.
+- [[https://mbujosab.github.io/nacallib/][NAcAL]] :: the Python library used by the Notebooks and the notes.
+
+If you are a teacher and would like the instructor versions (with the
+solutions next to each exercise), [[https://mbujosab.github.io/][write to me]].
 
 *** License and sources
 :PROPERTIES:
 :CUSTOM_ID: en-license
 :END:
-/This material is licensed under a [[https://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International]] license
-(CC BY-NC-SA 4.0)./
+This material is licensed under a [[https://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International]] license
+(CC BY-NC-SA 4.0).
 
-/The lectures are inspired by Gilbert Strang's course 18.06, published on [[https://ocw.mit.edu][MIT OpenCourseWare]] under the same license.
+The lectures are inspired by Gilbert Strang's course 18.06, published on [[https://ocw.mit.edu][MIT OpenCourseWare]] under the same license.
 Many problems and exam questions are taken or adapted from that course and from G. Strang's books; where known, each one
-states its source. Problems taken from other sources remain the property of their authors./
+states its source. Problems taken from other sources remain the property of their authors.

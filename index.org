@@ -1,11 +1,12 @@
-#+title:  Material docente para Matemáticas II (Álgebra Lineal) @@html:<br>@@  /Teaching material for Mathematics II (Linear Algebra)/
+#+title:  Material docente para Matemáticas II (Álgebra Lineal)
+#+subtitle: Teaching material for Mathematics II (Linear Algebra)
 #+author: Marcos Bujosa 
 #+email:  mbujosab@ucm.es
-#+LANGUAGE: es-es
+#+LANGUAGE: es
 
 # Aspecto común de las webs de Álgebra Lineal: una sola hoja de estilo,
 # la de la página personal (ver ../coordinacion/coordinacion-entre-repositorios.md).
-#+OPTIONS: html-style:nil html5-fancy:t toc:nil
+#+OPTIONS: html-style:nil html5-fancy:t toc:nil num:nil
 #+HTML_DOCTYPE: html5
 #+HTML_HEAD: <link rel="stylesheet" href="https://mbujosab.github.io/css/algebra-lineal.css">
 
