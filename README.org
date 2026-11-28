@@ -103,8 +103,25 @@ El material está agrupado en siete partes y sigue el contenido del
   primeras lecciones.
 - [[https://mbujosab.github.io/nacallib/][NAcAL]] :: la librería de Python que usan los Notebooks y los apuntes.
 
-Si es docente y quiere las versiones para el profesor (con las
-soluciones junto a cada ejercicio), [[https://mbujosab.github.io/][escríbame]].
+*** Para docentes
+:PROPERTIES:
+:CUSTOM_ID: es-docentes
+:END:
+Si da clase de Álgebra Lineal puede usar y adaptar este material, con
+las condiciones de la licencia.
+
+- Versiones para el profesor :: además de los apuntes y las
+  transparencias de esta página, cada parte tiene una versión para
+  proyectar en el aula (con pausas) y otra de apuntes con la solución
+  junto a cada ejercicio y con las respuestas a las preguntas que se
+  hacen en clase. No están publicadas, para que los alumnos piensen
+  las preguntas antes de ver la respuesta. Si las quiere, [[https://mbujosab.github.io/][escríbame]].
+- Cómo está hecho :: las fuentes son LaTeX. La notación es la del
+  [[https://mbujosab.github.io/nacal-latex-package/][paquete de LaTeX]] =nacal=, y las cuentas de los ejemplos y de las
+  soluciones las hace [[https://mbujosab.github.io/nacallib/][NAcAL]] al compilar, así que no se copian a mano.
+- Para preparar su propio material :: en [[https://mbujosab.github.io/UsoPracticoDeNAcALParaProfes/][Uso práctico de NAcAL para
+  profesores]] se explica cómo compilar documentos y exámenes de LaTeX
+  con NAcAL, sin instalar nada.
 
 *** Licencia y procedencia
 :PROPERTIES:
@@ -214,8 +231,26 @@ take notes in class).
   lectures.
 - [[https://mbujosab.github.io/nacallib/][NAcAL]] :: the Python library used by the Notebooks and the notes.
 
-If you are a teacher and would like the instructor versions (with the
-solutions next to each exercise), [[https://mbujosab.github.io/][write to me]].
+*** For teachers
+:PROPERTIES:
+:CUSTOM_ID: en-teachers
+:END:
+If you teach Linear Algebra you may use and adapt this material, under
+the terms of the license.
+
+- Instructor versions :: besides the notes and the slides on this
+  page, each part has a version to project in the classroom (with
+  pauses) and a version of the notes with the solution next to each
+  exercise and with the answers to the questions asked in class. They
+  are not published, so that students think about the questions
+  before seeing the answer. If you would like them, [[https://mbujosab.github.io/][write to me]].
+- How it is made :: the sources are LaTeX. The notation comes from the
+  =nacal= [[https://mbujosab.github.io/nacal-latex-package/][LaTeX package]], and the computations in the examples and in
+  the solutions are done by [[https://mbujosab.github.io/nacallib/][NAcAL]] at compile time, so they are not
+  copied by hand.
+- To prepare your own material :: [[https://mbujosab.github.io/UsoPracticoDeNAcALParaProfes/][Practical use of NAcAL for teachers]]
+  (in Spanish) explains how to compile LaTeX documents and exams with
+  NAcAL, with nothing to install.
 
 *** License and sources
 :PROPERTIES:
